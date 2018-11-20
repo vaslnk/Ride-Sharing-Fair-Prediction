@@ -1,4 +1,4 @@
-# Fair prediction for ride sharing apps using data from ~50K rides
+# Fair Prediction for Ride Sharing Applications using data from ~50K rides
 ![Imgur](https://i.imgur.com/ebWYIpL.jpg)
 
 ## EDA, Feature selection and Modeling:
